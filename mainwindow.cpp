@@ -161,136 +161,143 @@ void MainWindow::on_pushButton_back_clicked()
 }
 void MainWindow::on_pushButton_secret_clicked()
 {
-
-    if(impot==1998){
+    if(impot==1988){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1998.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators(" D:\\qtRes\\qwerty\\1988.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
+    if(impot==1998){
+player->stop();
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators(" D:\\qtRes\\qwerty\\1998.mp3")));
+    player->setVolume(50);
+    player->play();
+    //player->setPlaybackRate(QMediaPlayer:)
+    }
+
     if(impot==1985){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1985.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\1985.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==1990){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1990.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\1990.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==1999){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1999.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\1999.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==1992){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1992.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\1992.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==1989){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1989.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\1989.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==1986){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1986.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\1986.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==1987){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1987.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\1987.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==1991){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1991.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\1991.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==1993){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1993.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\1993.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==1994){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1994.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\1994.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==1995){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1995.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\1995.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==1996){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1996.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\1996.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==1997){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\1997.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\1997.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==2001){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\2001.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\2001.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==2000){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\2000.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\2000.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==2002){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\2002.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\2002.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==2003){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\2003.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\2003.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==2004){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\2004.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\2004.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
@@ -298,42 +305,42 @@ player->stop();
 
     if(impot==2005){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\2005.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\2005.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==2006){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\2006.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\2006.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==2007){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\2007.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\2007.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==2008){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\2008.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\2008.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==2009){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\2009.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\2009.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
     }
     if(impot==2010){
 player->stop();
-    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\2010.mp3")));
+    player->setMedia(QUrl::fromLocalFile(QDir::toNativeSeparators("D:\\qtRes\\qwerty\\2010.mp3")));
     player->setVolume(50);
     player->play();
     //player->setPlaybackRate(QMediaPlayer:)
